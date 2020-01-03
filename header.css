@@ -15,6 +15,5 @@ h1 {
 a {
   text-decoration: none;
   font-size: 21px;
-  font-family: SegoeUI, "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: SegoeUI, sans-serif;
 }
