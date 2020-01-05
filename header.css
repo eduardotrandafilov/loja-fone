@@ -9,17 +9,17 @@ header {
 
 h1 {
   font-size: 40px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, "Roboto", Helvetica, sans-serif;
   margin-left: 62.4px;
 }
 
 nav {
   font-size: 21px;
+  font-family: "Segoe UI", "Roboto", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a {
   text-decoration: none;
-  font-family: SegoeUI, sans-serif;
   margin-right: 60px;
   color: inherit;
 }
