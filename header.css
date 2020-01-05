@@ -4,10 +4,6 @@ header {
   justify-content: space-between;
   align-items: center;
   height: 100px;
-}
-
-h1,
-a {
   color: #ffffff;
 }
 
@@ -17,9 +13,13 @@ h1 {
   margin-left: 62.4px;
 }
 
+nav {
+  font-size: 21px;
+}
+
 a {
   text-decoration: none;
-  font-size: 21px;
   font-family: SegoeUI, sans-serif;
   margin-right: 60px;
+  color: inherit;
 }
