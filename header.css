@@ -1,25 +1,24 @@
 header {
   background-color: #e24647;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 100px;
+  overflow: hidden;
   color: #ffffff;
+  margin: 0 115px;
+  padding: 55px 60px 95px;
 }
 
 h1 {
   font-size: 40px;
   font-family: Arial, "Roboto", Helvetica, sans-serif;
-  margin-left: 62.4px;
+  float: left;
 }
 
 nav {
   font-size: 21px;
   font-family: "Segoe UI", "Roboto", Tahoma, Geneva, Verdana, sans-serif;
+  float: right;
 }
 
 a {
   text-decoration: none;
-  margin-right: 60px;
   color: inherit;
 }
