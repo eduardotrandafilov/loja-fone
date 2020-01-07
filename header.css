@@ -23,3 +23,17 @@ a {
   color: inherit;
   margin-right: 60px;
 }
+
+div {
+  margin: 840px 165px 65px 1005px;
+}
+
+button {
+  width: 199px;
+  height: 60px;
+  background-color: #252c41;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  float: right;
+}
