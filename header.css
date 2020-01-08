@@ -1,3 +1,10 @@
+.container1 {
+  height: 965px;
+  background-color: yellow;
+  margin: 50% 0;
+  position: relative;
+}
+
 header {
   background-color: #e24647;
   overflow: hidden;
@@ -24,10 +31,6 @@ a {
   margin-right: 60px;
 }
 
-div {
-  margin: 840px 165px 65px 1005px;
-}
-
 button {
   width: 199px;
   height: 60px;
@@ -35,5 +38,7 @@ button {
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   color: #fff;
-  float: right;
+  position: absolute;
+  left: 1375px;
+  bottom: 65px;
 }
